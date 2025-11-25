@@ -1,5 +1,4 @@
-# Bigram-Based Language Identification for Multilingual Text
-## Adapting BLEU Score Principles for Language Detection
+# Bigram-Based Language Identification
 
 ## Problem Statement
 Accurate language identification is crucial for multilingual systems, yet traditional methods often struggle with computational efficiency and accuracy trade-offs. This challenge explores using bigram analysis—inspired by machine translation evaluation metrics—to build an efficient and accurate language identifier.
@@ -31,8 +30,8 @@ We provide a pre-processed bigram dataset covering **three major languages**:
 | `count` | Frequency of this bigram in the language |
 
 **Dataset Links:**
-- CSV: [Google Drive Link]
-- Training Notebook (Bigram Extraction): [Google Colab Link]
+- CSV: [[Google Drive Link](https://drive.google.com/file/d/1KCLXXAWf398CwSWVFl3FVU4ygLQkLSyD/view?usp=sharing)]
+- Training Notebook (Bigram Extraction): [[Google Colab Link](https://colab.research.google.com/drive/1A9d6oO1tu8osWp6lrzCEp9fL3HYay34Q?usp=sharing)]
 
 ## Reference Implementation
 
