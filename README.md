@@ -26,7 +26,6 @@ We provide a pre-processed bigram dataset covering **three major languages**:
 | Column | Description |
 |--------|-------------|
 | `ngram` | The word bigram, e.g., "hello world" |
-| `type` | Always "bigram" for this dataset |
 | `lang` | Three-letter language code (eng, fra, twi) |
 | `lang_id` | Numeric identifier (1, 2, 3) |
 | `count` | Frequency of this bigram in the language |
